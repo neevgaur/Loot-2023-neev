@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
@@ -67,6 +68,23 @@
         <entry key="..\:/Users/janvi soni/loot/app/src/main/res/menu/bottom_navigation_item.xml" value="0.2" />
         <entry key="..\:/Users/janvi soni/loot/app/src/main/res/menu/popup_menu.xml" value="0.1859375" />
         <entry key="..\:/Users/janvi soni/loot/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1935185185185185" />
+        <entry key="..\:/kotlinProjects/Loot-2023-neev/app/src/main/res/drawable-v21/ripple_accent_border.xml" value="0.1635" />
+        <entry key="..\:/kotlinProjects/Loot-2023-neev/app/src/main/res/drawable/pink_rectangle.xml" value="0.1635" />
+        <entry key="..\:/kotlinProjects/Loot-2023-neev/app/src/main/res/drawable/ripple_accent_border.xml" value="0.1635" />
+        <entry key="..\:/kotlinProjects/Loot-2023-neev/app/src/main/res/drawable/white15_rectangle.xml" value="0.1635" />
+        <entry key="..\:/kotlinProjects/Loot-2023-neev/app/src/main/res/drawable/white_background70.xml" value="0.104" />
+        <entry key="..\:/kotlinProjects/Loot-2023-neev/app/src/main/res/layout/activity_main3.xml" value="0.2210144927536232" />
+        <entry key="..\:/kotlinProjects/Loot-2023-neev/app/src/main/res/layout/challenge_dialog.xml" value="0.2210144927536232" />
+        <entry key="..\:/kotlinProjects/Loot-2023-neev/app/src/main/res/layout/fragment_current_mission.xml" value="0.2210144927536232" />
+        <entry key="..\:/kotlinProjects/Loot-2023-neev/app/src/main/res/layout/fragment_duel.xml" value="0.2210144927536232" />
+        <entry key="..\:/kotlinProjects/Loot-2023-neev/app/src/main/res/layout/fragment_grid_tap.xml" value="0.2210144927536232" />
+        <entry key="..\:/kotlinProjects/Loot-2023-neev/app/src/main/res/layout/fragment_help.xml" value="0.2210144927536232" />
+        <entry key="..\:/kotlinProjects/Loot-2023-neev/app/src/main/res/layout/fragment_how_to.xml" value="0.264" />
+        <entry key="..\:/kotlinProjects/Loot-2023-neev/app/src/main/res/layout/fragment_leader_board.xml" value="0.2210144927536232" />
+        <entry key="..\:/kotlinProjects/Loot-2023-neev/app/src/main/res/layout/fragment_login.xml" value="0.2210144927536232" />
+        <entry key="..\:/kotlinProjects/Loot-2023-neev/app/src/main/res/layout/fragment_missions.xml" value="0.2210144927536232" />
+        <entry key="..\:/kotlinProjects/Loot-2023-neev/app/src/main/res/layout/fragment_splash.xml" value="0.2210144927536232" />
+        <entry key="..\:/kotlinProjects/Loot-2023-neev/app/src/main/res/layout/recycle_cards.xml" value="0.264" />
       </map>
     </option>
   </component>
@@ -116,7 +134,7 @@
       </value>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

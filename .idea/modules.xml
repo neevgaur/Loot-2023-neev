@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Loot-2022-Final.iml" filepath="$PROJECT_DIR$/.idea/modules/Loot-2022-Final.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Loot-2022-Final.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Loot-2022-Final.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Loot-2022-Final.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Loot-2022-Final.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Loot-2022-Final.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Loot-2022-Final.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Loot-2022-Final.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Loot-2022-Final.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Loot-2023-neev.iml" filepath="$PROJECT_DIR$/.idea/modules/Loot-2023-neev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Loot-2023-neev.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Loot-2023-neev.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Loot-2023-neev.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Loot-2023-neev.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Loot-2023-neev.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Loot-2023-neev.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Loot-2023-neev.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Loot-2023-neev.app.unitTest.iml" />
     </modules>
   </component>
 </project>

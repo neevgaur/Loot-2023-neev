@@ -46,17 +46,22 @@
 <!--        app:layout_constraintWidth_default="percent"-->
 <!--        app:layout_constraintWidth_percent="0.71" />-->
 
-
-    <androidx.constraintlayout.utils.widget.ImageFilterView
+    <FrameLayout
         android:id="@+id/imageFilterView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:scaleType="centerCrop"
-        android:scaleX="1"
-        android:scaleY="1"
-        android:src="@drawable/squidgames_pos"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="0dp" />
+        android:foreground="@color/semi_transparent">
+        <androidx.constraintlayout.utils.widget.ImageFilterView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:scaleX="1"
+            android:scaleY="1"
+            android:src="@drawable/squidgames_pos"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="0dp" />
+    </FrameLayout>
+
 
     <ImageView
         android:id="@+id/loot_title"
